@@ -1,0 +1,4 @@
+com\bjk\flink\kafka\FlinkKafkaEmailEventNotification.class
+com\bjk\flink\kafka\MailRunner$1.class
+com\bjk\flink\kafka\MailRunner.class
+com\bjk\flink\kafka\MailSink.class

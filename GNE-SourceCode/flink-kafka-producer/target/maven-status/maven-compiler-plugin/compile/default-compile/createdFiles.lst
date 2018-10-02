@@ -1,0 +1,7 @@
+com\bjk\mapper\JSONSerailiser.class
+com\bjk\KafkaProducer$SimpleStringGenerator.class
+com\bjk\domain\EventType.class
+com\bjk\domain\UserActivityEvent.class
+com\bjk\KafkaProducer$SimpleStringSchema.class
+com\bjk\KafkaProducer.class
+com\bjk\domain\builder\EventBuilder.class
